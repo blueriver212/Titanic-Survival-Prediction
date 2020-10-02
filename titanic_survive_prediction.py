@@ -135,13 +135,13 @@ print(Y_test)
 
 #Would you survive? Create a list of your values.
 #In this order
-pclass        int64
-sex           int64
-age         float64
-sibsp         int64
-parch         int64
-fare        float64
-embarked      int64
+#pclass        int64
+#sex           int64
+#age         float64
+#sibsp         int64
+#parch         int64
+#fare        float64
+#embarked      int64
 my_survival = [[3, 1, 21, 0, 0, 0, 1]]
 
 #You need to scale it like you did with the orginal data
