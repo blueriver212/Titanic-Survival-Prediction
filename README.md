@@ -1,5 +1,5 @@
 # Titanic-Survival-Prediction
- What you survive on the Titanic? Using Decision Tree. 
+ Would you survive on the Titanic? Using Decision Tree. 
 
 This tests whether or not you would surive the Titanic based on your age, sex, ticket class etc. 
 
